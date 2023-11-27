@@ -9,7 +9,7 @@
 - https://www.instagram.com/blacksnowmartin/
 - https://twitter.com/martin_kitonga
 - https://www.chess.com/member/blacksnowmartin
-- +254700895391
+- https://wa.me/254700895391
 -  ...
 
 <!---
