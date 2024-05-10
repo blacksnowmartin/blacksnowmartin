@@ -7,7 +7,7 @@
 - https://web.facebook.com/martin.mwendwa.3110/
 - https://www.linkedin.com/in/martin-kitonga-a89756237/
 - https://www.instagram.com/blacksnowmartin/
-- https://twitter.com/martin_kitonga
+- https://x.com/martin_kitonga
 - https://www.chess.com/member/blacksnowmartin
 - https://wa.me/254700895391
 -  ...
