@@ -10,7 +10,6 @@
 - https://x.com/martin_kitonga
 - https://www.chess.com/member/blacksnowmartin
 - https://wa.me/254700895391
-- bsmartin
 
 ♾️♾️♾️♾️ There's usually more than what meets an eye. ♾️♾️♾️♾️
 <!---
