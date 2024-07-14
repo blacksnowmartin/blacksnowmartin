@@ -12,7 +12,7 @@
 - https://www.chess.com/member/blacksnowmartin
 - https://wa.me/254700895391
 
-♾️♾️♾️♾️ There's usually more than what meets an eye. ♾️♾️♾️♾️
+♾️♾️♾️♾️ Greatness! ♾️♾️♾️♾️
 <!---
 blacksnowmartin/blacksnowmartin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
