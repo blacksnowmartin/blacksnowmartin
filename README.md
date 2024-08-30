@@ -6,7 +6,7 @@
 - 📫 How to reach me 
 - martinmwendwa005@gmail.com
 - https://web.facebook.com/martin.mwendwa.3110/
-- https://www.linkedin.com/in/martin-kitonga-a89756237/
+- https://www.linkedin.com/in/martin-kitonga
 - https://www.instagram.com/blacksnowmartin/
 - https://x.com/martin_kitonga
 - https://www.chess.com/member/blacksnowmartin
