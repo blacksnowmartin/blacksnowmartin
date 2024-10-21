@@ -10,6 +10,7 @@
 - https://www.instagram.com/blacksnowmartin/
 - https://x.com/martin_kitonga
 - https://www.chess.com/member/blacksnowmartin
+- https://lichess.org/@/blacksnowmartin
 - https://wa.me/254700895391
 - ..  -.- -. --- .--  -- --- .-. .  .- -... --- ..- -  -.. .- .-. -.-  .-- . -...  .- .-.. ... --- .-.-.- 
 
