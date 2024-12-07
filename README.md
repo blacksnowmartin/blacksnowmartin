@@ -12,6 +12,7 @@
 - https://lichess.org/@/blacksnowmartin
 - https://wa.me/254700895391
 - https://web.facebook.com/martin.mwendwa.3110/
+
 - ..  -.- -. --- .--  -- --- .-. .  .- -... --- ..- -  -.. .- .-. -.-  .-- . -...  .- .-.. ... --- .-.-.- 
 
 ♾️♾️♾️♾️ Greatness! ♾️♾️♾️♾️
@@ -19,4 +20,5 @@
 blacksnowmartin/blacksnowmartin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 Introduce new stylish look later
+Prompt: Can you update this my README.md and make it look more aesthetic and give it an unique techy look.... You can suggest ways to make it look more sassy
 --->
