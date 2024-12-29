@@ -49,9 +49,3 @@
 
 ---  
 
-**✨ Suggestions for Further Aesthetic Enhancements**:  
-1. Add **custom badges** for technologies you work with (e.g., Blockchain, Cybersecurity, Solana).  
-   - You can use a generator like [Shields.io](https://shields.io/).  
-2. Include **project showcases** with links to your repositories.  
-3. Add a **banner image** for a more personalized touch. Tools like [Canva](https://www.canva.com/) can help you design a sleek header.  
-4. Use **dark-mode-friendly themes** in Markdown to emphasize the tech aesthetic.
