@@ -31,7 +31,7 @@
 - **Instagram**: [@blacksnowmartin](https://www.instagram.com/blacksnowmartin/)  
 - **X (Twitter)**: [@martin_kitonga](https://x.com/martin_kitonga)  
 - **WhatsApp**: [+254700895391](https://wa.me/254700895391)  
-- **Facebook**: [Martin Mwendwa](https://web.facebook.com/martin.mwendwa.3110/)  
+- **Facebook**: [Blacksnow Martin ](https://web.facebook.com/martin.mwendwa.3110/)  
 - **Chess**: [Chess.com](https://www.chess.com/member/blacksnowmartin) | [Lichess.org](https://lichess.org/@/blacksnowmartin)  
 
 ---
