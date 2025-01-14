@@ -9,7 +9,7 @@
 &nbsp; &nbsp; ◦ **Solana**  
 &nbsp; &nbsp; ◦ **Arbitrum**  
 &nbsp; &nbsp; ◦ **Stellar**  
-&nbsp; & nbsp; ° **Base**
+&nbsp; nbsp; ◦ **Base**
 
 ⚡ Passionate about:  
 &nbsp; &nbsp; ◦ **CyberSecurity**  
