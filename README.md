@@ -30,7 +30,9 @@
 ---
 ## 🛠️ Skills & Expertise
 🚀 **Blockchain**: Building decentralized applications, smart contracts, and DeFi solutions.
+
 🛡️ **CyberSecurity**: Keeping systems secure with a passion for ethical hacking and system integrity.
+
 📡 **Network Administration**: Designing, managing, and troubleshooting complex network infrastructures.
 ---
 ## ♾️ Closing Note
