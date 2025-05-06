@@ -8,7 +8,8 @@ Nominee's social media profile
 ```bash
 https://github.com/blacksnowmartin
 ```
-Category Blockchain Developer of the year (Male)
+Category
+## Blockchain Developer of the year (Male)
 
 Reason why he deserves nomination
 Feel to choose one of any these:
