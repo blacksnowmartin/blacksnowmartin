@@ -12,7 +12,7 @@ Category
 ## Blockchain Developer of the year (Male)
 
 Reason why he deserves nomination
-Feel to choose one of any these:
+Feel free to choose one of any these:
 
 ```bash
 Martin has a 512+ day GitHub streak contributing to Web3 projects.
