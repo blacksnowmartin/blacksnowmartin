@@ -27,6 +27,7 @@
 - **WhatsApp**: [+254700895391](https://wa.me/254700895391)
 - **Facebook**: [Blacksnow Martin ](https://web.facebook.com/martin.mwendwa.3110/)
 - **Chess**: [Chess.com](https://www.chess.com/member/blacksnowmartin) | [Lichess.org](https://lichess.org/@/blacksnowmartin)
+- **Discord**: [Blacksnowmartin8](https://discord.com/channels/@blacksnowmartin8)
 ---
 ## 🛠️ Skills & Expertise
 🚀 **Blockchain**: Building decentralized applications, smart contracts, and DeFi solutions.
