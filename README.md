@@ -49,4 +49,4 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=blacksnowmartin&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) I'm great. -->
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) I'm great and I erase limiting beliefs everyday and open up for more abundance -->
