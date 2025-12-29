@@ -1,4 +1,4 @@
-# 👋 Hello World, I’m Martin Kitonga (@blacksnowmartin)
+# 👋 Happy New year2️⃣0️⃣2️⃣6️⃣, I’m Martin Kitonga (@blacksnowmartin)
 **_Greatness is the baseline; let's build beyond!_**
 ---
 ## 👥 What I'm Up To
