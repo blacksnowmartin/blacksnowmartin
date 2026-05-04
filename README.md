@@ -1,52 +1,65 @@
-# 👋 Happy New year2️⃣0️⃣2️⃣6️⃣, I’m Martin Kitonga (@blacksnowmartin)
-**_Greatness is the baseline; let's build beyond!_**
----
-## 👥 What I'm Up To
-🔗 Currently immersed in **developing blockchain projects** on cutting-edge platforms like:
-  * **ICP**
-  * **Solana**
-  * **Arbitrum**
-  * **Stellar**
-  * **Base**
-    
-⚡ Passionate about:
-  * **CyberSecurity**
-  * **Network Administration**
-🌱 **Learning**: Creating advanced **dApps** and building **DeFi solutions** to empower decentralized economies.
----
-## 💡 Collab Opportunities
-💞 Looking to:
-  * **Build IoT projects** that merge tech with real-world impact.
-  * Research **financial markets** and develop predictive models for price forecasting.
----
-## 📬 Let's Connect
-- **Email**: martinmwendwa005@gmail.com
-- **LinkedIn**: [Martin Kitonga](https://www.linkedin.com/in/martin-kitonga)
-- **Instagram**: [@blacksnowmartin](https://www.instagram.com/blacksnowmartin/)
-- **Twitter**: [@martin_kitonga](https://twitter.com/martin_kitonga)
-- **WhatsApp**: [+254700895391](https://wa.me/254700895391)
-- **Facebook**: [Blacksnow Martin ](https://web.facebook.com/martin.mwendwa.3110/)
-- **Chess**: [Chess.com](https://www.chess.com/member/blacksnowmartin) | [Lichess.org](https://lichess.org/@/blacksnowmartin)
-- **Discord**: [Blacksnowmartin8](https://discord.com/channels/@blacksnowmartin8)
----
-## 🛠️ Skills & Expertise
-🚀 **Blockchain**: Building decentralized applications, smart contracts, and DeFi solutions.
+# 👋 Hello World, I'm Martin Kitonga (@blacksnowmartin)
+**Blockchain Developer | Network Engineer | EDM Artist**
 
-🛡️ **CyberSecurity**: Keeping systems secure with a passion for ethical hacking and system integrity.
-
-📡 **Network Administration**: Designing, managing, and troubleshooting complex network infrastructures.
+<p align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FFAA&width=435&lines=Greatness+is+the+baseline...;Building+beyond+the+horizon...;Architecting+Decentralized+Futures...;Securing+the+Digital+Frontier..." alt="Typing SVG" />
+</p>
 
 ---
 
-## ♾️ Closing Note
-🌌 **.. -. --- .-- -- --- .-. . .- -... --- ..- - -.. .- .-. -.- .-- . -... .- .-.. ... --- .-.-.-**
-♾️♾️♾️♾️ **Greatness!** ♾️♾️♾️♾️
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=blacksnowmartin&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=blacksnowmartin&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=blacksnowmartin&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+## 🛠️ Technical Arsenal
+
+### ⛓️ Web3 & Blockchain Developer
+*   **Ecosystems:** Solana, ICP, Arbitrum, Base, Stellar.
+*   **Specialization:** Smart Contract architecture, DeFi solutions, and dApp development.
+*   **Analysis:** Quantitative financial market research and predictive modeling.
+
+### 📡 Network Engineer & Security
+*   **Infrastructure:** Designing and troubleshooting complex network architectures.
+*   **Defense:** CyberSecurity enthusiast focused on ethical hacking and system integrity.
+*   **Convergence:** Merging IoT with blockchain for real-world impact.
+
+### 🎹 EDM Artist & Producer
+*   **Sound Design:** Crafting high-fidelity Electronic Dance Music and instrumental remixes.
+*   **Distribution:** Building a creative presence across YouTube and TikTok.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=blacksnowmartin&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) I'm great and I erase limiting beliefs everyday and open up for more abundance -->
+## 🚀 Current Missions
+- 🔗 **Deep Dive:** Building advanced cross-chain DeFi protocols.
+- 🛠️ **Hardware:** Developing IoT projects with integrated blockchain security.
+- 📡 **Research:** Advanced network forensics and deep-web infrastructure.
+
+---
+
+## 📊 Git Diagnostics
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=blacksnowmartin&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="Martin's Stats" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=blacksnowmartin&theme=dark&hide_border=false" alt="Martin's Streak" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=blacksnowmartin&theme=dark&hide_border=false&layout=compact" alt="Top Languages" />
+</p>
+
+---
+
+## 📬 Protocol for Connection
+
+| Platform | Link |
+| :--- | :--- |
+| **LinkedIn** | [Martin Kitonga](https://www.linkedin.com/in/martin-kitonga) |
+| **Email** | [martinmwendwa005@gmail.com](mailto:martinmwendwa005@gmail.com) |
+| **WhatsApp** | [+254 700 895 391](https://wa.me/254700895391) |
+| **Instagram** | [@blacksnowmartin](https://www.instagram.com/blacksnowmartin/) |
+| **Chess** | [Chess.com Profile](https://www.chess.com/member/blacksnowmartin) |
+
+---
+
+## ♾️ Terminal Output
+> `.. -. --- .-- -- --- .-. . .- -... --- ..- - -.. .- .-. -.- .-- . -... .- .-.. ... --- .-.-.-`
+
+**♾️♾️♾️♾️ Greatness! ♾️♾️♾️♾️**
+
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=blacksnowmartin&icon=0&color=0" alt="Visitor Count" />
+</p>
